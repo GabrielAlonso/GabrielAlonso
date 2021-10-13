@@ -4,7 +4,7 @@
   <img height="140em"  src="https://github-readme-stats.vercel.app/api?username=GabrielAlonso&show_icons=false&theme=dark&include_all_commits=true&count_private=true&border_radius=0"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlonso&layout=compact&langs_count=7&theme=dark&border_radius=0"/>
 </div>
-<div style="display: inline_block"><br />
+<div style="display: inline_block">
   <h2>Front-end / Frameworks</h2>
   <img align="center" alt="HTML" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
