@@ -1,7 +1,7 @@
 ## Hi! I'm Gabriel Jordão Alonso, front-end developer!
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img width="50%" height="150em"  src="https://github-readme-stats.vercel.app/api?username=GabrielAlonso&show_icons=false&theme=dark&include_all_commits=true&count_private=true&border_radius=0"/>
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=GabrielAlonso&show_icons=false&theme=dark&include_all_commits=true&count_private=true&border_radius=0"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAlonso&layout=compact&langs_count=7&theme=dark&border_radius=0"/>
 </div>
 <div style="display: inline_block"><br />
