@@ -23,10 +23,11 @@
   <img align="center" alt="Mysql" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Oracle" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">  
   <h2>Repositories / Package Manager</h2>
-  <img align="center" alt="Git" height="60" width="80"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Git" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Git" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">   
   <img align="center" alt="Git" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">  
-  <img align="center" alt="Git" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"> 
+  <img align="center" alt="Git" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="Git" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg"> 
   <h2>IDE / Prototyping platform</h2> 
   <img align="center" alt="Git" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
   <img align="center" alt="Git" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg"> 
