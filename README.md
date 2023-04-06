@@ -23,7 +23,7 @@
   <img align="center" alt="Mysql" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Oracle" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">  
   <h2>Repositories / Package Manager</h2>
-  <img align="center" alt="GitHub" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="GitHub" height="50" width="50" src="https://cdn3.iconfinder.com/data/icons/sociocons/256/github-sociocon.png">  
   <img align="center" alt="GitLab" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">   
   <img align="center" alt="BitBucket" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">  
   <img align="center" alt="NPM" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
